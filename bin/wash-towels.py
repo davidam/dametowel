@@ -1,3 +1,3 @@
 #!/usr/bin/env python
 
-print "hi from wash-towels.py"
+print("hi from wash-towels.py")
