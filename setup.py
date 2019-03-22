@@ -5,7 +5,7 @@ setup(
     version='0.1.1',
     author='John M. Gabriele',
     author_email='jmg3000@gmail.com',
-    packages=['towel_stuff', 'towel_stuff.test'],
+    packages=['dametowel', 'dametowel.test'],
     scripts=['bin/stowe-towels.py', 'bin/wash-towels.py'],
     url='http://pypi.python.org/pypi/dametowel/',
     license='LICENSE.txt',
